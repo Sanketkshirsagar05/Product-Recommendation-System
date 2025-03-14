@@ -19,3 +19,7 @@
 
 - The selected KNN model is deployed using Streamlit.
 - The application takes Product ID as input and returns the Top 5 recommended products based on item-to-item similarity.
+
+## Application Screenshot
+
+"C:\Users\sanke\OneDrive\Desktop\DS Project\Project 1\Final\Screenshot.png"
