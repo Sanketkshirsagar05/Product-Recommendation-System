@@ -22,5 +22,5 @@
 
 ## Application Screenshot
 
-![Product Recommendation System](C:\Users\sanke\OneDrive\Desktop\DS Project\Project 1\Final\Screenshot.png)
+![Streamlit UI](Screenshot.png)
 
